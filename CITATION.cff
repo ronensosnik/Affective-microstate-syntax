@@ -14,16 +14,11 @@ authors:
   - family-names: Polosan   
     given-names: Mircea
     affiliation: Pôle de Psychiatrie et Neurologie, CHU de Grenoble – Hôpital Nord, Grenoble, France; Univ. Grenoble Alpes; Inserm U1216, Grenoble Institut des Neurosciences, CHU de Grenoble, F-38000 Grenoble, France
+    journal: 
+    year: 
+    doi: 
+    repository-code: https://github.com/ronensosnik/Affective-microstate-syntax
 
-date-released: 2025-10-12
-version: v1.0.0
-doi: 10.5281/zenodo.XXXXXXX
-repository-code: https://github.com/ronensosnik/Affective-microstate-syntax
-preferred-citation:
-  type: article
-  authors:
-    - family-names: Sosnik; Bertrand; Linder; Polosan
-      given-names: Ronen; Antoine; Muli; Mircea
-  title: "Affective EEG microstate syntax differentiates bipolar disorder and familial liability beyond static metrics"
-  journal: 
-  year: 
+    date-released: 2025-10-12
+    version: v1.0.0
+
