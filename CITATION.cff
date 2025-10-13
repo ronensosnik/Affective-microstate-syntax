@@ -2,20 +2,28 @@ cff-version: 1.2.0
 message: "If you use this code, please cite the accompanying article."
 title: "Affective EEG microstate syntax differentiates bipolar disorder and familial liability beyond static metrics"
 authors:
-  - family-names: <YourSurname>
-    given-names: <YourGivenNames>
-    affiliation: <YourInstitution>
-  - family-names: <CoauthorSurname>
-    given-names: <CoauthorGivenNames>
+  - family-names: Sosnik
+    given-names: Ronen
+    affiliation: Faculty of Electrical and Electronics Engineering, Holon Institute of Technology (HIT), Holon, Israel
+  - family-names: Bertrand 
+    given-names: Antoine
+    affiliation: Pôle de Psychiatrie et Neurologie, CHU de Grenoble – Hôpital Nord, Grenoble, France
+  - family-names: Linder  
+    given-names: Muli
+    affiliation: Sha’ar Menashe Mental Health Center, Sha’ar Menashe, Israel; The Ruth and Bruce Rappaport Faculty of Medicine, Technion, Haifa, Israel
+  - family-names: Polosan   
+    given-names: Mircea
+    affiliation: Pôle de Psychiatrie et Neurologie, CHU de Grenoble – Hôpital Nord, Grenoble, France; Univ. Grenoble Alpes; Inserm U1216, Grenoble Institut des Neurosciences, CHU de Grenoble, F-38000 Grenoble, France
+
 date-released: 2025-10-12
 version: v1.0.0
 doi: 10.5281/zenodo.XXXXXXX
-repository-code: https://github.com/<org-or-user>/task-microstates
+repository-code: https://github.com/ronensosnik/Affective-microstate-syntax
 preferred-citation:
   type: article
   authors:
-    - family-names: <YourSurname>
-      given-names: <YourGivenNames>
+    - family-names: Sosnik; Bertrand; Linder; Polosan
+      given-names: Ronen; Antoine; Muli; Mircea
   title: "Affective EEG microstate syntax differentiates bipolar disorder and familial liability beyond static metrics"
-  journal: Nature Mental Health
-  year: 2025
+  journal: 
+  year: 
