@@ -37,5 +37,5 @@ Thanks for your interest in improving this project! This repository contains MAT
 
 ## Licensing & citation
 
-- Code is MIT-licensed (see `LICENSE`).
+- Code is GNU GENERAL PUBLIC LICENSE (see `LICENSE`).
 - Cite the accompanying manuscript and this repository (see `CITATION.cff`).
