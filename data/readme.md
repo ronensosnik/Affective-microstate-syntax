@@ -11,21 +11,6 @@ All paths are read from `config/config.m`. Before running the pipeline, edit tha
 - 
 ## Directory layout expected by the scripts
 
-data/derivatives/
-├─ HC/
-│ ├─ sub-001/
-│ │ ├─ Neutral/ sub-001_task-affect_Neutral.set
-│ │ ├─ Negative/ sub-001_task-affect_Negative.set
-│ │ └─ Positive/ sub-001_task-affect_Positive.set
-│ └─ sub-002/ ...
-├─ BP_I_Euthymic/
-│ └─ sub-101/ (Neutral/Negative/Positive) *.set
-├─ BP_I_Depressed/
-├─ BP_II_Euthymic/
-├─ BP_II_Depressed/
-└─ Siblings/
-
-
 - **Groups (folder names):** `HC`, `BP_I_Euthymic`, `BP_I_Depressed`, `BP_II_Euthymic`, `BP_II_Depressed`, `Siblings`  
 - **Conditions:** `Neutral`, `Negative`, `Positive`  
 - **File names:** Any consistent scheme is fine. The examples above are safe:
