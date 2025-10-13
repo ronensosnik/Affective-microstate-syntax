@@ -1,0 +1,21 @@
+# MATLAB
+*.asv
+*.m~ 
+*.mex*
+*.mltbx
+*.fig
+*.mat
+*.log
+*.autosave
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Results/data
+data/raw/**
+data/derivatives/**
+results/**
+!data/README.md
+!results/.keep
