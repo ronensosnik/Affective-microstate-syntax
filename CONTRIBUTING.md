@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for your interest in improving this project! This repository contains MATLAB code for task-evoked EEG microstate analyses (metrics + directed transition syntax).
+Thanks for your interest in improving this project! This repository contains MATLAB code for task-evoked EEG microstate analyses (metrics + directed transition syntax + syntax-behavioral link).
 
 ## How to propose changes
 
