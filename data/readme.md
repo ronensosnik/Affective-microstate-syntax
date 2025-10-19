@@ -1,5 +1,5 @@
 This folder holds **local data** used by the MATLAB pipeline for the paper  
-*Affective EEG microstate syntax differentiates bipolar disorder and familial liability beyond static metrics.*
+*Task evoked EEG microstate syntax reveals bipolar- and familial- risk-linked network routing beyond static metrics.*
 
 ## Paths & configuration
 
