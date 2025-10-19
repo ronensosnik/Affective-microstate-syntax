@@ -5,7 +5,13 @@ This repository contains MATLAB code to reproduce the analyses for:
 
 ## Overview
 
-- **Goal.** Quantify static microstate metrics (duration, coverage, occurrence) and **directed transition syntax** during an affective decision task; test group (BD-I, BD-II, siblings, HC), condition (negative/neutral/positive), and mood-state effects.
+### Analyses (Q1–Q3)
+- **Q1:** Sequence-independence tests for transition rates (Poisson IRRs vs. independence offsets).
+- **Q2:** Age-anchored rate-ratio contrasts vs. healthy controls with BH–FDR within edge families.
+- **Q3:** Trial-level link between selected transition features (e.g., P300 Anchor-2 outflow) and response time on valenced trials; Holm-adjusted confirmatory tests; LPP as negative control.
+
+
+- **Goal.** Quantify static microstate metrics (duration, coverage, occurrence) and **directed transition syntax** during an affective decision task; test group (BD-I, BD-II, siblings, HC), condition (negative/neutral/positive), and mood-state effects.; test **Q1** (independence), **Q2** (age-anchored contrasts vs HC), and **Q3** (trial-level behavior link).
 - **Windows.** N200 (180–300 ms), P300 (300–500 ms), LPP (500–1000 ms).
 - **Templates.** 7-class Custo2017 topographies; polarity ignored for clustering; back-fitting with temporal smoothing.
 - **Statistics.**
