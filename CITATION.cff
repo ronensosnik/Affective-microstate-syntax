@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite the accompanying article."
-title: "Task evoked EEG microstate syntax reveals bipolar- and familial- risk-linked network routing beyond static metrics"
+title: "Task-evoked EEG microstate syntax complements static metrics in bipolar disorder"
 authors:
   - family-names: Sosnik
     given-names: Ronen
@@ -19,6 +19,6 @@ authors:
     doi: 
     repository-code: https://github.com/ronensosnik/Affective-microstate-syntax
 
-    date-released: 2025-10-12
+    date-released: 2026-01-12
     version: v1.0.0
 
