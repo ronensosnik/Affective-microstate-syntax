@@ -7,16 +7,16 @@ This repository contains MATLAB code to reproduce the analyses for:
 
 ### Analyses (Q1–Q3)
 - **Q1:** Sequence-independence tests for transition rates (Poisson IRRs vs. independence offsets).
-- **Q2:** Age-anchored rate-ratio contrasts vs. healthy controls with BH–FDR within edge families.
-- **Q3:** Trial-level link between selected transition features (e.g., P300 Anchor-2 outflow) and response time on valenced trials; Holm-adjusted confirmatory tests; LPP as negative control.
+- **Q2:** Age-anchored rate-ratio contrasts vs. healthy controls with ERP BH–FDR.
+- **Q3:** Trial-level link between selected transition features (e.g., P300 Anchor-2 outflow) and response time on valenced trials; LPP as negative control.
 
 
 - **Goal.** Quantify static microstate metrics (duration, coverage, occurrence) and **directed transition syntax** during an affective decision task; test group (BD-I, BD-II, siblings, HC), condition (negative/neutral/positive), and mood-state effects.; test **Q1** (independence), **Q2** (age-anchored contrasts vs HC), and **Q3** (trial-level behavior link).
 - **Windows.** N200 (180–300 ms), P300 (300–500 ms), LPP (500–1000 ms).
 - **Templates.** 7-class Custo2017 topographies; polarity ignored for clustering; back-fitting with temporal smoothing.
 - **Statistics.**
-  - **Metrics:** linear mixed-effects (LME) with transformations (logit for coverage, log(rate+c) for occurrence), omnibus LRTs, back-transformed EMMs/contrasts with BH–FDR. See `lme_posthoc_21FDR_transformsBT.m`.
-  - **Transitions:** Q1 independence tests (Poisson IRRs vs sequence-independence null) and Q2 **age-anchored** rate-ratio contrasts vs. HC; FDR within principled edge families. Display routines re-compute BH–FDR per family at plot time.  
+  - **Metrics:** linear mixed-effects (LME) with transformations (logit for coverage, log(rate+c) for occurrence), omnibus LRTs, back-transformed EMMs/contrasts with ERP BH–FDR. See `lme_posthoc.m`.
+  - **Transitions:** Q1 independence tests (Poisson IRRs vs sequence-independence null) and Q2 **age-anchored** rate-ratio contrasts vs. HC; FDR within ERP. Display routines re-compute BH–FDR per family at plot time.  
 - **Outputs.** Publication figures (violin+EMM bars; circular graphs), and tables (Omnibus, Age, EMMs, Pairwise).
 
 > Reproducibility details: code re-computes EMMs and FDR exactly as reported in the manuscript (see `make_report_tables.m`, `print_summary_measure.m`).
