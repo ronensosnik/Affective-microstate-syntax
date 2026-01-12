@@ -1,7 +1,7 @@
 # Affective EEG Microstate Syntax — Task Pipeline
 
 This repository contains MATLAB code to reproduce the analyses for:  
-**“Affective EEG microstate syntax differentiates bipolar disorder and familial liability beyond static metrics.”**
+**“Task-evoked EEG microstate syntax complements static metrics in bipolar disorder.”**
 
 ## Overview
 
