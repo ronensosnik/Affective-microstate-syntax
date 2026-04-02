@@ -1,7 +1,7 @@
 # Affective EEG Microstate Syntax — Task Pipeline
 
 This repository contains MATLAB code to reproduce the analyses for:  
-**“Task-evoked EEG microstate syntax complements static metrics in bipolar disorder.”**
+**“Directed EEG microstate transitions during affective processing complement static microstate metrics in bipolar disorder.”**
 
 ## Overview
 
