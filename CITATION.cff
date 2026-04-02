@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite the accompanying article."
-title: "Task-evoked EEG microstate syntax complements static metrics in bipolar disorder"
+title: "Directed EEG microstate transitions during affective processing complement static microstate metrics in bipolar disorder"
 authors:
   - family-names: Sosnik
     given-names: Ronen
@@ -14,9 +14,11 @@ authors:
   - family-names: Polosan   
     given-names: Mircea
     affiliation: Pôle de Psychiatrie et Neurologie, CHU de Grenoble – Hôpital Nord, Grenoble, France; Univ. Grenoble Alpes; Inserm U1216, Grenoble Institut des Neurosciences, CHU de Grenoble, F-38000 Grenoble, France
-    journal: 
-    year: 
-    doi: 
+    journal: NeuroImage 
+    year: 2026
+    Volume: 332
+    Page: 121902
+    doi: 10.1016/j.neuroimage.2026.121902
     repository-code: https://github.com/ronensosnik/Affective-microstate-syntax
 
     date-released: 2026-01-12
